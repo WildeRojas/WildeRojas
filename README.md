@@ -104,11 +104,8 @@ I am a **Full-Stack Developer & Data Analyst** focused on engineering robust, re
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WildeRojas&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=WildeRojas&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </p>
 
 ---
 
-<div align="center">
-  <sub>Crafted with precision by <strong>Wilder Ario Rojas Mamani</strong> · <em>"Transforming code and data into real impact"</em></sub>
-</div>
