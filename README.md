@@ -99,8 +99,8 @@ I am a **Full-Stack Developer & Data Analyst** focused on engineering robust, re
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WildeRojas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildeRojas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-nu-plum.vercel.app/api?username=WildeRojas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-nu-plum.vercel.app/api/top-langs/?username=WildeRojas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" height="165" />
 </div>
 
 <p align="center">
